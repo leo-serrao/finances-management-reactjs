@@ -7,3 +7,21 @@ In this project i developed an application to manage outcomes and incomes in per
 This project was made in **React + Vite + TypeScript**, it was very helpful to understand React hooks like **useEffect**, **useState**, **useForm**, the creation and usage of contexts with **useContext**, the usage of libraries like **Phosphor React** for icons, **Zod** for forms validadion and declaration, **Radix** for accessible components and the usage of API's using a fake API made with Json Server.
 
 If you're tying the App don't forget to initialize the Json Server 😉
+
+1. Install dependencies
+```jsx
+npm install  
+```
+
+2. Run server 
+```jsx
+npm run dev:server 
+```
+
+2. Run application 
+```jsx
+npm run dev
+```
+
+Enjoy 🥳
+
