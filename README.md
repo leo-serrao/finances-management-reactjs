@@ -1,4 +1,4 @@
-# Finances Managment Application ReactJS ⚛
+# Finances Management Application ReactJS ⚛
 
 ### What is this?
 In this project i developed an application to manage outcomes and incomes in personal financial life, you can insert and vizualize your total incomes, total outcomes, and total money after all the transactions. You can also make a search for specific transactions 🤑💸  
